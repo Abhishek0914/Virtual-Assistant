@@ -48,7 +48,7 @@ def takecommand():
 
 
 if __name__=="__main__":
-    speak("Hello there!. I am Paige, your virtual assistant ")
+    speak("Hello there!. I am your virtual assistant ")
 wishme()
 
 while True:
